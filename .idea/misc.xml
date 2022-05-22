@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Activity8/app/src/main/res/layout/activity_edit_teman.xml" value="0.67" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/Activity8/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/acer/AndroidStudioProjects/Activity8/app/src/main/res/layout/activity_tambah_teman.xml" value="0.33" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Activity8/app/src/main/res/menu/poup1xml.xml" value="0.25" />
       </map>
     </option>
   </component>
